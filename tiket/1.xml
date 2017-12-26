@@ -1,0 +1,16 @@
+<?xml version='1.0'?>
+<tiket>
+	<penumpang>
+		<id_tiket>1</id_tiket>
+		<id_jadwal>DPSDPN</id_jadwal>
+		<no_kursi>1</no_kursi>
+		<ktp>123456789</ktp>
+		<tanggal>30-DEC-16</tanggal>
+		<jam_berangkat>12.17</jam_berangkat>
+		<jam_tiba>15.17</jam_tiba>
+		<kota_awal>Bali</kota_awal>
+		<kota_tujuan>Balikpapan</kota_tujuan>
+		<bandara_awal>I Gusti Ngurahrai</bandara_awal>
+		<bandara_tujuan>Sultan Aji M. Sulaiman</bandara_tujuan>
+	</penumpang>
+</tiket>

@@ -1,0 +1,55 @@
+html{
+	font-family: calibri;
+}
+
+h1{
+	text-align: center;
+	font-size: 50px;
+}
+#login{
+	width: 400px;
+	height: auto;
+	padding: 20px;
+	border: solid maroon;
+}
+
+#basket{
+	width: auto;
+	height: 420px;
+	padding: 20px;
+	margin-bottom: 50px;
+}
+#wrapper{
+	width: 400px;
+	height: auto;
+	padding: 20px;
+	border: solid maroon;
+	float: right;
+}
+table{
+	text-align: center;
+}
+#papan{
+	width: 950px;
+	padding: 60px;
+	float: left;
+	font-size: 22px;
+	padding-top: 0px;
+	margin-top: 10px;
+}
+
+h1 h2 h3{
+	text-decoration-style: underline;
+}
+
+#wrapper input{
+	position: center;
+	margin-left: 10px;
+	font-size: 17px;
+}
+table{
+	margin: 5px;
+}
+
+
+

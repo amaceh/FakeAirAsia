@@ -1,0 +1,16 @@
+<?xml version='1.0'?>
+<tiket>
+	<penumpang>
+		<id_tiket>21</id_tiket>
+		<id_jadwal>GGRDPN</id_jadwal>
+		<no_kursi>1</no_kursi>
+		<ktp>767221771</ktp>
+		<tanggal>30-DEC-16</tanggal>
+		<jam_berangkat>15.17</jam_berangkat>
+		<jam_tiba>16.37</jam_tiba>
+		<kota_awal>Bandung</kota_awal>
+		<kota_tujuan>Jakarta</kota_tujuan>
+		<bandara_awal>Husein Sastranegara</bandara_awal>
+		<bandara_tujuan>Soekarno Hatta</bandara_tujuan>
+	</penumpang>
+</tiket>

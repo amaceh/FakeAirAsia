@@ -1,0 +1,57 @@
+*{
+	font-family: 'Roboto';
+}
+#wrapper{
+	position: absolute;
+	width: 600px;
+	height: 400px;	
+	margin: auto;
+	border: solid;
+	border-color: #ed5757;
+	color: black; 
+	border-radius: 20px;
+	margin-left: 450px;
+}
+
+input{
+	height: 40px;
+	width: 230px;
+	font-size: 18px;
+	/*margin-left: 175px;*/
+}
+
+#masukkan{
+	height: 100px;
+	width: 240px;
+	margin-top: 130px;
+	margin-left: 175px;
+	/*background-color: grey;*/
+}
+
+#tiket{
+	height: 400px;
+	width: 600px;
+	margin-top: 20px;
+	margin-left: 50px;
+	/*background-color: grey;*/
+}
+
+#cari{
+	height: 400px;
+	width: 600px;
+	margin-top: 20px;
+	margin-left: 50px;
+	/*background-color: grey;*/
+}
+
+button{
+	margin-left: 265px;
+}
+
+/*#pesan{
+	background: #2ea3f2;
+	text-align: center;
+	border: 1px solid #fff;
+	padding: 10px;
+	color: #fff;
+}*/

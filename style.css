@@ -1,0 +1,52 @@
+*{
+	font-family: 'arial';
+	color: black;
+}
+h1{
+	color: black;
+}
+a{
+	color: grey;
+}
+html{
+	font-family: arial;
+	font-weight: bold;
+	font-size: 19px;
+	/*color: white;*/
+}
+#wrapper{
+  width: 600px;
+  margin: auto;
+  /*background-color: grey;*/
+  border-radius: 20px;
+  text-align: center;
+  border: solid 5px maroon;
+  padding: 30px;
+}
+table{
+	font-size: 21px;
+	color: maroon;
+	margin-top: 10px;
+}
+
+#wrapper input{
+	margin-top: 20px;
+}
+
+input{
+	height: 40px;
+	width: auto;
+	font-size: 18px;
+}
+
+#masukkan{
+	height: 100px;
+	width: 240px;
+	margin-top: 130px;
+	margin-left: 175px;
+	/*background-color: grey;*/
+}
+
+button{
+	margin-left: 265px;
+}
